@@ -1,2 +1,1 @@
-# Automatic-Number-Plate-Recognition-Program
-Python Program for Car Plate Recognition System
+Python program for my OOP class that reads car plate's text and writes it in a csv file.
